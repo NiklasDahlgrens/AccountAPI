@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\nicke\OneDrive\Skrivbord\Visual Studio Projekt\LoginAPI\LoginAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-18T14:27:15.7549347Z;True|2022-03-17T14:50:14.4842955+01:00;True|2022-03-17T14:47:19.9291972+01:00;True|2022-03-17T14:46:45.6056816+01:00;True|2022-03-14T10:18:35.0935957+01:00;True|2022-03-09T14:22:15.1315302+01:00;</History>
+  </PropertyGroup>
+</Project>
